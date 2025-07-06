@@ -1,0 +1,14 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data and vector store (not committed)
+data/raw/
+vector_store/
+
+# Environment
+.env
+.venv/

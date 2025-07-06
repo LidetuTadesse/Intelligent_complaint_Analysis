@@ -2,3 +2,6 @@ numpy
 pandas
 matplotlib
 seaborn
+sentece-transformer
+faiss-cpu
+langchain

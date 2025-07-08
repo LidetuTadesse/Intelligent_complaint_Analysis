@@ -2,3 +2,7 @@ numpy
 pandas
 matplotlib
 seaborn
+# faiss
+# pickle
+langchain
+sentence-transformers

@@ -12,3 +12,5 @@ vector_store/
 # Environment
 .env
 .venv/
+
+*.csv

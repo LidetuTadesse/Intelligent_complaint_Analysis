@@ -1,5 +1,3 @@
-# File: src/rag_pipeline.py
-
 import pandas as pd
 from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.vectorstores import FAISS
